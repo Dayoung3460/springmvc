@@ -5,7 +5,7 @@ This course covers essential backend web development concepts using Spring MVC.
 
 ---
 
-## ✅ Curriculum:
+## ✅ Topics I'm Learning:
 - Understanding Web Applications
 - Servlet
 - Servlet, JSP, MVC pattern
