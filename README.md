@@ -17,7 +17,6 @@ This course covers essential backend web development concepts using Spring MVC.
 ---
 
 ## 🔗 Useful Links:
-- [Inflearn Course Link](https://www.inflearn.com/)
 - [Spring Framework Documentation](https://spring.io/projects/spring-framework)
 
 
